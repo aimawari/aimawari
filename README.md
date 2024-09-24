@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Idea (aka Aidia)! 👋
 
-<!--
-**aimawari/aimawari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer with a love for creating innovative solutions and exploring new technologies. Here’s a little bit about me:
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I’m a **Flutter Mobile Developer** specializing in building beautiful and responsive mobile applications.
+- 🌱 Currently learning **Game Development** and **Low-Level Programming** as a hobby.
+- 💡 I enjoy working on projects that challenge me and allow me to grow as a developer.
+- 💬 Avid gamer and anime enthusiast! Always up for discussing the latest titles or series.
+- 🐦 Twitter: [@aidia_dayo](https://x.com/aidia_dayo)
+
+## 📈 GitHub Stats
+
+<a href="https://github.com/aimawari">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aimawari&include_all_commits=true&rank_icon=github&title_color=fff&icon_color=79ff97\&text_color=9f9f9f&bg_color=151515" />
+</a>
+<a href="https://github.com/aimawari">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aimawari&include_all_commits=true&rank_icon=github&title_color=fff&icon_color=79ff97\&text_color=9f9f9f&bg_color=151515" />
+</a>
